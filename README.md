@@ -4,7 +4,9 @@ I'm an interdisciplinary researcher passionate about **applying computing to oce
 <p align="left">
 	<a href="https://linkedin.com/in/romeroqe"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white"></a>
 	<a href="https://www.researchgate.net/profile/Emmanuel_Romero4"><img src="https://img.shields.io/badge/-ResearchGate-green?style=flat-square&logo=ResearchGate&logoColor=white&color=00CAB9"></a>
+	<a href="https://scholar.google.com/citations?user=I6IcOwEAAAAJ"><img src="https://img.shields.io/badge/-Google%20Scholar-blue?style=flat-square&logo=Google%20Scholar&logoColor=white&color=4285F4"></a>
 	<a href="https://orcid.org/0000-0001-9627-6770"><img src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
+	<a href="https://medium.com/@romeroqe"><img src="https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&color=000000"></a>
 </p>
 
 
