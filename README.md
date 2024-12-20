@@ -19,6 +19,7 @@ I'm an interdisciplinary researcher passionate about **applying computing to oce
 
 ## 📂 Featured Projects
 
+- **[buoyancy_potential_work](https://github.com/romeroqe/buoyancy_potential_work)**: Calculates the buoyancy work required to bring a parcel of water from different depths to a reference depth.
 - **[th-clusters](https://github.com/romeroqe/th-clusters)**: Datasets of thermohaline, temperature, and salinity centroids with demo notebooks for applying clustering methods described in a scientific publication [📄](https://doi.org/10.1016/j.dsr.2024.104344).
 - **[mld-mtd](https://github.com/romeroqe/mld-mtd)**: Methodology for locating thermocline depths, thickness, and strength by fitting a sigmoide function to ocean temperature profiles, adaptable to global or local studies [📄](https://doi.org/10.5194/os-19-887-2023).
 - **[cluster_qc](https://github.com/romeroqe/cluster_qc)**: A package for filtering profiles that have salinity drift problems using clustering [📄](https://doi.org/10.5194/os-17-1273-2021).
